@@ -4,4 +4,4 @@ Depends on:
 Dorm-Uido code from CAIL
 numpy
 pandas
-sys
+sys, re
